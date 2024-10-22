@@ -7749,7 +7749,7 @@
       "port-version": 0
     },
     "rapidjson": {
-      "baseline": "2023-07-17",
+      "baseline": "2016-08-25",
       "port-version": 1
     },
     "rapidxml": {
